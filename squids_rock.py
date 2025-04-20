@@ -1,0 +1,1 @@
+print(squids rock)
